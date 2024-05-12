@@ -47,6 +47,6 @@ Let's connect and support each other on this journey! Feel free to reach out:
 
 - LinkedIn: [Birendra Nath Nandi](https://www.linkedin.com/in/birendra-nath-nandi/)
 - Twitter: [@Birendra_Tech](https://twitter.com/Birendra_Tech)
-- Instagram: [@birendra.nath.nandi] (https://www.instagram.com/birendra.nath.nandi/)
+- Instagram: [@birendra.nath.nandi](https://www.instagram.com/birendra.nath.nandi/)
 
 Join me in the #100DaysOfPython challenge and let's level up our Python skills together! 💻🐍
