@@ -135,3 +135,12 @@
 # else:
 #     print("You fell into a hole. Game Over.")
 
+# # List of fruits from the dirty dozen list
+# fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Pears", "Cherries", "Tomatoes"]
+# # List of vegetables from the dirty dozen list
+# vegetables = ["Spinach", "Kale", "Peppers", "Carrots", "Celery"]
+
+# # Nested lists
+# dirty_dozen2 = [fruits, vegetables]
+
+# print(dirty_dozen2)
