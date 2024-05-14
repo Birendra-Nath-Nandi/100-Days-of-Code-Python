@@ -144,3 +144,27 @@
 # dirty_dozen2 = [fruits, vegetables]
 
 # print(dirty_dozen2)
+
+# Input a Python list of student heights
+# student_heights = [151, 145, 179] # Given
+
+# total_hight = 0
+
+# for x in student_heights:
+#     total_hight += x
+
+# avg = int(total_hight/len(student_heights))
+
+# print(f"total height = {total_hight}")
+# print(f"number of students = {len(student_heights)}")
+# print(f"average height = {avg}")
+
+# student_scores = [78, 65, 89, 86, 55, 91, 64, 89]
+
+# max = 0
+# for num in student_scores:
+#     if num > max:
+#         max = num
+
+# print(f"The highest score in the class is: {max}")
+
