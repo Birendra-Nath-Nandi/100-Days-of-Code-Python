@@ -36,9 +36,10 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 - [x] Day 1: Learned about functions like input() and print(), mastered variable manipulation, and debugged my first program!
 - [x] Day 2: Learned Datatypes, Type checking & typecasting, Mathematical Operations & priority rules, Round functions, f-string, Short hand operations. Completed the Tip Calculator challenge program.
 - [x] Day 3: Learned Control Flow with if / else and Conditional Operators. Example - Rollercoaster program, Nested if / elif / else, Multiple if statement, Logical Operators. Completed the Treasure Island Game challenge program.
-- [x] Day 4: Random module, lists, Methods of list, two other programmes And completed a challenge programme that is a Rock, paper and scissors game.
-- [ ] Day 5: ...
+- [x] Day 4: Learned Random module, lists, Methods of list, two other programmes And completed a challenge programme that is a Rock, paper and scissors game.
+- [x] Day 5: learned 'for loops', 4 other programmes namely (Avarage height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
 - [ ] Day 6: ...
+- [ ] Day 7: ...
 
 Check out my daily progress in the respective directories!
 

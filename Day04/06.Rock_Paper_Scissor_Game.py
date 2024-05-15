@@ -1,4 +1,4 @@
-# Day 03 Boss Challenge : Rock, Paper & Scissors
+# Day 04 Boss Challenge : Rock, Paper & Scissors
 
 rock = '''
     _______
