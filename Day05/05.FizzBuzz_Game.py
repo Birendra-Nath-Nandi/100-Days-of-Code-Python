@@ -1,6 +1,8 @@
 # A program that automatically prints the solution to the FizzBuzz game.
 
-for number in range(1, 101):
+target = 100
+
+for number in range(1, target + 1):
     if number % 3 == 0 and number % 5 == 0:
         print("FizzBuzz")
     elif number % 3 == 0:
