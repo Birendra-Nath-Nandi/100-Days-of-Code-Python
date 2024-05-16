@@ -122,7 +122,7 @@
 #     wait_or_swim = wait_or_swim.lower()
 #     if wait_or_swim == "wait":
 #         print("You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue.")
-#         door = input("Which colour do you choose? Type 'red', 'yellow' or 'blue'")
+#         door = input("Which color do you choose? Type 'red', 'yellow' or 'blue'")
 #         door = door.lower()
 #         if door == "red":
 #             print("It's a room full of fire. Game Over.")
@@ -168,3 +168,44 @@
 
 # print(f"The highest score in the class is: {max}")
 
+# rows = 5 # int(input("How meany rows you want?> "))
+
+# print("\nfront facing star half pyramid")
+
+# # front facing star half pyramid
+# for num in range(1, rows + 1):
+#     print("* " * num)
+
+# print("\nreverse star half pyramid")
+
+# # reverse star half pyramid
+# for num in range(rows, 0, -1):
+#     print("* " * num)
+
+# print("\nback facing star half pyramid")
+
+# # back facing star half pyramid
+# for num in range(rows, 0, -1):
+#     print("  " * (num - 1) + "* " * (rows + 1 - num))
+
+# print("\nback facing reverse star half pyramid")
+
+# # back facing reverse star half pyramid
+# for num in range(rows, 0, -1):
+#     print("  " * (rows - num) + "* " * num)
+
+# print("\nup facing full pyramid")
+
+# # up facing full pyramid
+# for num in range(rows, 0, -1):
+#     print("  " * (num - 1) + "* " * (2 *(rows + 1 - num) - 1))
+
+# print("\ndown facing full pyramid")
+
+# down facing full pyramid
+# for num in range(rows, 0, -1):
+#     print("  " * (rows - num) + "* " * (2 * num - 1))
+
+# print("\nleft side facing pyramid")
+
+# left side facing pyramid

@@ -38,7 +38,7 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 - [x] Day 3: Learned Control Flow with if / else and Conditional Operators. Example - Rollercoaster program, Nested if / elif / else, Multiple if statement, Logical Operators. Completed the Treasure Island Game challenge program.
 - [x] Day 4: Learned Random module, lists, Methods of list, two other programmes And completed a challenge programme that is a Rock, paper and scissors game.
 - [x] Day 5: learned 'for loops', 4 other programmes namely (Avarage height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
-- [ ] Day 6: ...
+- [x] Day 6: learned 'While loops', indentations And Add programme a virtual port bot to find way in a maze in 'Reeborg's World'.
 - [ ] Day 7: ...
 
 Check out my daily progress in the respective directories!
