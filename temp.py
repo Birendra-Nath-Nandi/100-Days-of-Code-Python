@@ -209,3 +209,48 @@
 # print("\nleft side facing pyramid")
 
 # left side facing pyramid
+
+#Step 1 
+
+# word_list = ["aardvark", "baboon", "camel"]
+
+# #TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word.
+# import random
+
+# chosen_word = random.choice(word_list)
+
+# blank_list = []
+# display_word = ""
+
+# for blanks in range(len(chosen_word)):
+#     blank_list.append("_")
+# print(blank_list)
+
+# for word_blanks in blank_list:
+#     display_word += "_ "
+
+# print(f"Word : {display_word}")
+
+# # print("\nWord : " + "_ " * len(chosen_word) + "\n")
+
+# #TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
+
+# guess = input("Guess a letter: ").lower()
+
+# #TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
+
+# index = 0
+
+# for x in range(len(chosen_word_list)):
+#     if guess in chosen_word_list[index]:
+#         blank_list[index] = guess
+#     index += 1
+
+# guessed = ""
+
+# print(blank_list)
+# for letter_guessed in blank_list:
+#     guessed += letter_guessed + " "
+# word_str = guessed.upper()
+# print(f"word : {word_str}")
+
