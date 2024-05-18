@@ -1,3 +1,5 @@
+# Given a random height and width of wall, calculate how many cans of paint you'll need to buy.
+
 import math
 
 # Function to calculate the number of paint cans required to cover a given wall area

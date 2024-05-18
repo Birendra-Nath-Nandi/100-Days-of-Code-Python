@@ -40,8 +40,9 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 - [x] Day 5: learned 'for loops', 4 other programmes namely (Avarage height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
 - [x] Day 6: learned 'While loops', indentations And Add programme a virtual port bot to find way in a maze in 'Reeborg's World'.
 - [x] Day 7: created a complete Hangman game from scratch.
-- [ ] Day 8: ...
+- [x] Day 8: I learned Function with arguments, created Two practice programs (Paint area calculator, prime number Checker), I completed the final problem of the day Caesar cipher program.
 - [ ] Day 9: ...
+- [ ] Day 10: ...
 
 Check out my daily progress in the respective directories!
 
