@@ -1,3 +1,5 @@
+# a program that converts their scores to grades.
+
 student_scores = {
   "Harry": 81,
   "Ron": 78,
