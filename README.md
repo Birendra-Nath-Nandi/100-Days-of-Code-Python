@@ -34,15 +34,27 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 ## Progress
 
 - [x] Day 1: Learned about functions like input() and print(), mastered variable manipulation, and debugged my first program!
+
 - [x] Day 2: Learned Datatypes, Type checking & typecasting, Mathematical Operations & priority rules, Round functions, f-string, Short hand operations. Completed the Tip Calculator challenge program.
+
 - [x] Day 3: Learned Control Flow with if / else and Conditional Operators. Example - Rollercoaster program, Nested if / elif / else, Multiple if statement, Logical Operators. Completed the Treasure Island Game challenge program.
+
 - [x] Day 4: Learned Random module, lists, Methods of list, two other programmes And completed a challenge programme that is a Rock, paper and scissors game.
+
 - [x] Day 5: learned 'for loops', 4 other programmes namely (Avarage height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
+
 - [x] Day 6: learned 'While loops', indentations And Add programme a virtual port bot to find way in a maze in 'Reeborg's World'.
+
 - [x] Day 7: created a complete Hangman game from scratch.
+
 - [x] Day 8: I learned Function with arguments, created Two practice programs (Paint area calculator, prime number Checker), I completed the final problem of the day Caesar cipher program.
+
 - [x] Day 9: learned dictionaries, nested lists & dictionaries, created Two practice programs (Grading program, dictionary in List Program), I completed the final problem of the day Blind Auction Program.
-- [ ] Day 10: ...
+
+- [x] Day 10: ...
+
+- [ ] Day 11: ...
+
 - [ ] Day 11: ...
 
 Check out my daily progress in the respective directories!
