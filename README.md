@@ -41,7 +41,7 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] Day 4: Learned Random module, lists, Methods of list, two other programmes And completed a challenge programme that is a Rock, paper and scissors game.
 
-- [x] Day 5: learned 'for loops', 4 other programmes namely (Avarage height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
+- [x] Day 5: learned 'for loops', 4 other programmes namely (Average height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
 
 - [x] Day 6: learned 'While loops', indentations And Add programme a virtual port bot to find way in a maze in 'Reeborg's World'.
 
@@ -51,11 +51,13 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] Day 9: learned dictionaries, nested lists & dictionaries, created Two practice programs (Grading program, dictionary in List Program), I completed the final problem of the day Blind Auction Program.
 
-- [x] Day 10: ...
+- [x] Day 10: learned Functions with output multiple return values, created a practice program (Days in month), I completed the final problem of the day calculator Program.
 
-- [ ] Day 11: ...
+- [x] Day 11: created a complete BlackJack Game Project from Scratch.
 
-- [ ] Day 11: ...
+- [ ] Day 12: ...
+
+- [ ] Day 13: ...
 
 Check out my daily progress in the respective directories!
 
