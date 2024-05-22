@@ -254,3 +254,36 @@
 # word_str = guessed.upper()
 # print(f"word : {word_str}")
 
+# import random
+# from art import logo
+
+# def game(no_try, ans):
+#     for _ in range(no_try):
+#         print(f"You have {no_try} attempts remaining to guess the number")
+#         guess = int(input("Make a guess: "))
+#         if guess == ans:
+#             print(f"You got it! The answer was {ans}.")
+#             break
+#         elif guess < ans:
+#             print("Too Low")
+#         elif guess > ans:
+#             print("Too High")
+#         print("Guess again.")
+#         no_try -= 1
+#     print("You've run out of guesses, you lose")
+
+
+# random_integer = random.randint(1, 100)
+
+# print(logo)
+# print("Welcome to the Number Guessing Game!")
+# print("I'm thinking of a number between 1 and 100.")
+# # Test
+# print(f"Pssst, the correct answer is {random_integer}")
+# difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ")
+# if difficulty == "easy":
+#     no_of_try = 10
+# else:
+#     no_of_try = 5
+    
+# game(no_of_try, random_integer)
