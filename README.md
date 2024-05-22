@@ -41,21 +41,21 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] Day 4: Learned Random module, lists, Methods of list, two other programmes And completed a challenge programme that is a Rock, paper and scissors game.
 
-- [x] Day 5: learned 'for loops', 4 other programmes namely (Average height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
+- [x] Day 5: Learned 'for loops', 4 other programmes namely (Average height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
 
-- [x] Day 6: learned 'While loops', indentations And Add programme a virtual port bot to find way in a maze in 'Reeborg's World'.
+- [x] Day 6: Learned 'While loops', indentations And Add programme a virtual port bot to find way in a maze in 'Reeborg's World'.
 
-- [x] Day 7: created a complete Hangman game from scratch.
+- [x] Day 7: Created a complete Hangman game from scratch.
 
 - [x] Day 8: I learned Function with arguments, created Two practice programs (Paint area calculator, prime number Checker), I completed the final problem of the day Caesar cipher program.
 
-- [x] Day 9: learned dictionaries, nested lists & dictionaries, created Two practice programs (Grading program, dictionary in List Program), I completed the final problem of the day Blind Auction Program.
+- [x] Day 9: Learned dictionaries, nested lists & dictionaries, created Two practice programs (Grading program, dictionary in List Program), I completed the final problem of the day Blind Auction Program.
 
-- [x] Day 10: learned Functions with output multiple return values, created a practice program (Days in month), I completed the final problem of the day calculator Program.
+- [x] Day 10: Learned Functions with output multiple return values, created a practice program (Days in month), I completed the final problem of the day calculator Program.
 
-- [x] Day 11: created a complete BlackJack Game Project from Scratch.
+- [x] Day 11: Created a complete BlackJack Game Project from Scratch.
 
-- [x] Day 12: ...
+- [x] Day 12: Learned local scopes, global scopes, constants and created a Number Guessing Game
 
 - [ ] Day 13: ...
 
