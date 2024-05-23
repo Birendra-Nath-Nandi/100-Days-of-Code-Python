@@ -55,11 +55,13 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] Day 11: Created a complete BlackJack Game Project from Scratch.
 
-- [x] Day 12: Learned local scopes, global scopes, constants and created a Number Guessing Game
+- [x] Day 12: Learned local scopes, global scopes, constants and created a Number Guessing Game.
 
-- [ ] Day 13: ...
+- [x] Day 13: I Learned Debugging (Describe Problem, Reproduce the Bug, Play Computer, Fix the Errors, Print is Your Friend, Use a Debugger)
 
 - [ ] Day 14: ...
+
+- [ ] Day 15: ...
 
 Check out my daily progress in the respective directories!
 
