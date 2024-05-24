@@ -287,3 +287,44 @@
 #     no_of_try = 5
     
 # game(no_of_try, random_integer)
+
+# import random
+# import art
+# from game_data import data
+# from replit import clear
+
+# def display_option(option, random_dict):
+#     print(f"Compare {option}: {random_dict['name']}, a {random_dict['description']}, from {random_dict['country']}")
+# def correct(score):
+#     score += 1
+#     clear()
+#     print(art.logo)
+#     print(f"You're right! Current score: {score}.")
+
+# choice_a = random.choice(data)
+# game_over = False
+# score = 0
+# print(art.logo)
+
+# while not game_over:
+#     a_value = choice_a['follower_count']
+
+#     display_option('A', choice_a)
+#     print(art.vs)
+
+#     choice_b = random.choice(data)
+#     b_value = choice_b['follower_count']
+#     display_option('B', choice_b)
+
+#     user_choose = input("Who has more followers? Type 'A' or 'B': ").lower()
+
+#     if user_choose == 'a' and a_value <= b_value:
+#         correct(score)
+#     elif user_choose == 'b' and a_value >= b_value:
+#         correct(score)
+#     else:
+#         game_over = True
+#         print(f"Sorry, that's wrong. Final score: {score}")
+
+#     choice_a = choice_b
+

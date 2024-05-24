@@ -59,9 +59,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] Day 13: I Learned Debugging (Describe Problem, Reproduce the Bug, Play Computer, Fix the Errors, Print is Your Friend, Use a Debugger)
 
-- [ ] Day 14: ...
+- [x] Day 14: Created a Higher vs Lower Game programme from scratch.
 
 - [ ] Day 15: ...
+
+- [ ] Day 16: ...
 
 Check out my daily progress in the respective directories!
 
