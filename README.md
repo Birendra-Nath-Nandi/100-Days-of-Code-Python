@@ -33,37 +33,39 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 ## Progress
 
-- [x] Day 1: Learned about functions like input() and print(), mastered variable manipulation, and debugged my first program!
+- [x] **Day 1:** Learned about the `input()` and `print()` functions, mastered variable manipulation, and debugged my first program.
 
-- [x] Day 2: Learned Datatypes, Type checking & typecasting, Mathematical Operations & priority rules, Round functions, f-string, Short hand operations. Completed the Tip Calculator challenge program.
+- [x] **Day 2:** Explored data types, type checking and typecasting, mathematical operations and priority rules, round functions, f-strings, and shorthand operations. Completed the Tip Calculator challenge program.
 
-- [x] Day 3: Learned Control Flow with if / else and Conditional Operators. Example - Rollercoaster program, Nested if / elif / else, Multiple if statement, Logical Operators. Completed the Treasure Island Game challenge program.
+- [x] **Day 3:** Studied control flow using `if`/`else` and conditional operators, including nested `if`/`elif`/`else` statements and logical operators. Completed the Treasure Island Game challenge program.
 
-- [x] Day 4: Learned Random module, lists, Methods of list, two other programmes And completed a challenge programme that is a Rock, paper and scissors game.
+- [x] **Day 4:** Examined the `random` module and lists, along with list methods. Completed the Rock, Paper, Scissors challenge program.
 
-- [x] Day 5: Learned 'for loops', 4 other programmes namely (Average height program, High score finder, adding even number program and FizzBuzz Game) And completed a challenge programme that is a random pass word generator.
+- [x] **Day 5:** Learned about `for` loops and developed four programs: Average Height, High Score Finder, Adding Even Numbers, and the FizzBuzz game. Completed the Random Password Generator challenge program.
 
-- [x] Day 6: Learned 'While loops', indentations And Add programme a virtual port bot to find way in a maze in 'Reeborg's World'.
+- [x] **Day 6:** Studied `while` loops and indentations, and created a program for a virtual robot to navigate a maze in 'Reeborg's World'.
 
-- [x] Day 7: Created a complete Hangman game from scratch.
+- [x] **Day 7:** Developed a complete Hangman game from scratch.
 
-- [x] Day 8: I learned Function with arguments, created Two practice programs (Paint area calculator, prime number Checker), I completed the final problem of the day Caesar cipher program.
+- [x] **Day 8:** Learned about functions with arguments, and created two practice programs: Paint Area Calculator and Prime Number Checker. Completed the Caesar Cipher challenge program.
 
-- [x] Day 9: Learned dictionaries, nested lists & dictionaries, created Two practice programs (Grading program, dictionary in List Program), I completed the final problem of the day Blind Auction Program.
+- [x] **Day 9:** Explored dictionaries and nested data structures (lists and dictionaries). Created two practice programs: Grading System and Dictionary in List. Completed the Blind Auction challenge program.
 
-- [x] Day 10: Learned Functions with output multiple return values, created a practice program (Days in month), I completed the final problem of the day calculator Program.
+- [x] **Day 10:** Studied functions with multiple return values, and created a practice program to calculate days in a month. Completed the Calculator challenge program.
 
-- [x] Day 11: Created a complete BlackJack Game Project from Scratch.
+- [x] **Day 11:** Developed a complete Blackjack Game project from scratch.
 
-- [x] Day 12: Learned local scopes, global scopes, constants and created a Number Guessing Game.
+- [x] **Day 12:** Learned about local and global scopes, and constants. Created a Number Guessing Game.
 
-- [x] Day 13: I Learned Debugging (Describe Problem, Reproduce the Bug, Play Computer, Fix the Errors, Print is Your Friend, Use a Debugger)
+- [x] **Day 13:** Studied debugging techniques: describing the problem, reproducing the bug, simulating the computer, fixing errors, using print statements, and utilizing a debugger.
 
-- [x] Day 14: Created a Higher vs Lower Game programme from scratch.
+- [x] **Day 14:** Created a Higher or Lower game program from scratch.
 
-- [ ] Day 15: ...
+- [x] **Day 15:** Built a Coffee Machine program from scratch in Python. This project involved handling resources, processing transactions, and making decisions based on user input.
 
-- [ ] Day 16: ...
+- [ ] **Day 16:** ...
+
+- [ ] **Day 17:** ...
 
 Check out my daily progress in the respective directories!
 
