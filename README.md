@@ -63,9 +63,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 15:** Built a Coffee Machine program from scratch in Python. This project involved handling resources, processing transactions, and making decisions based on user input.
 
-- [ ] **Day 16:** ...
+- [x] **Day 16:** Delved into Object-Oriented Programming (OOP), explored turtle graphics, and learned about Python packages. Created an OOP Coffee Machine program to apply the new concepts.
 
 - [ ] **Day 17:** ...
+
+- [ ] **Day 18:** ...
 
 Check out my daily progress in the respective directories!
 
