@@ -65,9 +65,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 16:** Delved into Object-Oriented Programming (OOP), explored turtle graphics, and learned about Python packages. Created an OOP Coffee Machine program to apply the new concepts.
 
-- [ ] **Day 17:** ...
+- [x] **Day 17:** Deepened understanding of Object-Oriented Programming (OOP) by studying classes, methods, and created an OOP Quiz Game Program.
 
 - [ ] **Day 18:** ...
+
+- [ ] **Day 19:** ...
 
 Check out my daily progress in the respective directories!
 
