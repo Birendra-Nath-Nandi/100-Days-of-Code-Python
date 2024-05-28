@@ -328,3 +328,49 @@
 
 #     choice_a = choice_b
 
+# Drawing Different Shapes
+
+# from turtle import Turtle, Screen
+
+# timmy = Turtle()
+# sides = 3
+# colors = ["red", "green", "blue", "orange", "purple", "cyan", "gold", 
+#           "red", "green", "blue", "orange", "purple", "cyan", "gold"]
+# i = 0
+
+# while sides != 11:
+#     for _ in range(sides):
+#         timmy.pencolor(colors[i])
+#         timmy.forward(100)
+#         timmy.right(360/sides)
+#     sides += 1
+#     i += 1
+    
+# screen = Screen()
+# screen.exitonclick()
+
+# The Hirst Painting Project
+
+# import turtle as t
+# import random
+
+# timmy = t.Turtle()
+# timmy.speed(5)
+# t.colormode(255)
+# timmy.penup()
+
+# y_coordinate = 0
+# colors_list = [(218, 173, 125), (159, 181, 190), (134, 73, 53), (50, 103, 154), (118, 81, 92), (179, 142, 152), (162, 104, 151), (42, 47, 66), (128, 174, 115), (83, 96, 183), (67, 9, 27), (82, 133, 107), (52, 63, 78), (228, 189, 141), (194, 91, 72), (220, 226, 221), (62, 49, 38), (115, 41, 56), (91, 143, 118), (70, 67, 52), (209, 181, 189), (181, 185, 210), (209, 183, 178), (89, 55, 47), (183, 201, 179), (172, 199, 204), (41, 73, 83)]
+
+# def dot_layer():
+#     for _ in range(10):
+#         timmy.dot(15, random.choice(colors_list))
+#         timmy.forward(30)
+
+# for _ in range(10):
+#     timmy.goto(0, y_coordinate)
+#     dot_layer()
+#     y_coordinate += 30
+
+# screen = t.Screen()
+# screen.exitonclick()

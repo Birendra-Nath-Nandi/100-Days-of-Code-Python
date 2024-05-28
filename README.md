@@ -67,9 +67,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 17:** Deepened understanding of Object-Oriented Programming (OOP) by studying classes, methods, and created an OOP Quiz Game Program.
 
-- [ ] **Day 18:** ...
+- [x] **Day 18:** Explored the Turtle module and completed the Hirst Painting Project. This project was an exciting opportunity to unleash creativity and create stunning artwork using Python.
 
 - [ ] **Day 19:** ...
+
+- [ ] **Day 20:** ...
 
 Check out my daily progress in the respective directories!
 
