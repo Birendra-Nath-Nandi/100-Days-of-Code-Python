@@ -71,9 +71,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 19:** Delved deeper into Turtle methods and created the Turtle Race program. This project was an exciting challenge to simulate a thrilling race among colorful turtles using Python.
 
-- [ ] **Day 20:** ...
+- [x] **Day 20:** Began creating a Snake Game (Part 1 of 2). It's exciting to dive into game development and explore the world of Python programming.
 
 - [ ] **Day 21:** ...
+
+- [ ] **Day 22:** ...
 
 Check out my daily progress in the respective directories!
 
