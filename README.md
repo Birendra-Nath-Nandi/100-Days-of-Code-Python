@@ -73,9 +73,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 20:** Began creating a Snake Game (Part 1 of 2). It's exciting to dive into game development and explore the world of Python programming.
 
-- [ ] **Day 21:** ...
+- [x] **Day 21:** Continued working on the Snake Game (Part 2 of 2). It's amazing to see the game taking shape with enhanced functionality and features.
 
 - [ ] **Day 22:** ...
+
+- [ ] **Day 23:** ...
 
 Check out my daily progress in the respective directories!
 
