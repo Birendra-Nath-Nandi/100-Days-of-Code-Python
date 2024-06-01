@@ -75,9 +75,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 21:** Continued working on the Snake Game (Part 2 of 2). It's amazing to see the game taking shape with enhanced functionality and features.
 
-- [ ] **Day 22:** ...
+- [x] **Day 22:** Built a classic Pong game from scratch. It was an incredible experience implementing the logic for paddles, ball movement, and scoring system.
 
 - [ ] **Day 23:** ...
+
+- [ ] **Day 24:** ...
 
 Check out my daily progress in the respective directories!
 
