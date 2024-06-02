@@ -31,7 +31,7 @@ The 100 Days of Python Challenge is a commitment to improving your Python progra
 
 By participating in the 100 Days of Python Challenge, I aim to solidify my Python skills, cultivate discipline, and build a habit of consistent learning. Through daily practice and reflection, I believe I can achieve my goal of becoming a proficient Python developer.
 
-## Progress
+## Progress Log
 
 - [x] **Day 1:** Learned about the `input()` and `print()` functions, mastered variable manipulation, and debugged my first program.
 
@@ -77,9 +77,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 22:** Built a classic Pong game from scratch. It was an incredible experience implementing the logic for paddles, ball movement, and scoring system.
 
-- [ ] **Day 23:** ...
+- [x] **Day 23:** Created an addictive Turtle Crossing game. It's a thrilling challenge where the player navigates through traffic to reach the other side safely.
 
 - [ ] **Day 24:** ...
+
+- [ ] **Day 25:** ...
 
 Check out my daily progress in the respective directories!
 
