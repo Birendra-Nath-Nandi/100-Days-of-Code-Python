@@ -79,9 +79,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 23:** Created an addictive Turtle Crossing game. It's a thrilling challenge where the player navigates through traffic to reach the other side safely.
 
-- [ ] **Day 24:** ...
+- [x] **Day 24:** Dove into file handling in Python. Learned how to open, read, and write to files using the `with` keyword, and explored absolute and relative file paths.
 
 - [ ] **Day 25:** ...
+
+- [ ] **Day 26:** ...
 
 Check out my daily progress in the respective directories!
 
