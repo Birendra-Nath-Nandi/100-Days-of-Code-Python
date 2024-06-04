@@ -81,9 +81,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 24:** Dove into file handling in Python. Learned how to open, read, and write to files using the `with` keyword, and explored absolute and relative file paths.
 
-- [ ] **Day 25:** ...
+- [x] **Day 25:** Dived into the world of data manipulation with the pandas library in Python. Explored various `.csv` operations and tackled some exciting challenges.
 
 - [ ] **Day 26:** ...
+
+- [ ] **Day 27:** ...
 
 Check out my daily progress in the respective directories!
 
