@@ -83,9 +83,13 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 25:** Dived into the world of data manipulation with the pandas library in Python. Explored various `.csv` operations and tackled some exciting challenges.
 
-- [ ] **Day 26:** ...
+- [x] **Day 26:** Delved into list comprehension in Python and applied this knowledge to create a fun and educational NATO Alphabet program.
 
-- [ ] **Day 27:** ...
+- [x] **Day 27:** Began exploring the Tkinter module and the concepts of `*args` and `**kwargs` in Python. Created a Miles to Kilometers Converter program to apply these concepts.
+
+- [ ] **Day 28:** ...
+
+- [ ] **Day 29:** ...
 
 Check out my daily progress in the respective directories!
 
