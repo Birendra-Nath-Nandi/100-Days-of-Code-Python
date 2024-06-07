@@ -87,9 +87,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 27:** Began exploring the Tkinter module and the concepts of `*args` and `**kwargs` in Python. Created a Miles to Kilometers Converter program to apply these concepts.
 
-- [ ] **Day 28:** ...
+- [x] **Day 28:** Dived into GUI programming with Tkinter and built a Pomodoro App from scratch.
 
 - [ ] **Day 29:** ...
+
+- [ ] **Day 30:** ...
 
 Check out my daily progress in the respective directories!
 
