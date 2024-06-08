@@ -89,9 +89,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 28:** Dived into GUI programming with Tkinter and built a Pomodoro App from scratch.
 
-- [ ] **Day 29:** ...
+- [x] **Day 29:** Crafted a GUI Password Generator from scratch using Tkinter. This handy tool generates strong and secure passwords with just a click.
 
 - [ ] **Day 30:** ...
+
+- [ ] **Day 31:** ...
 
 Check out my daily progress in the respective directories!
 
