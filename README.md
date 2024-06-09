@@ -91,9 +91,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 29:** Crafted a GUI Password Generator from scratch using Tkinter. This handy tool generates strong and secure passwords with just a click.
 
-- [ ] **Day 30:** ...
+- [x] **Day 30:** Enhanced the GUI Password Generator by adding a search feature and securely storing data using JSON files. Now, it can generate strong passwords and retrieve them whenever needed.
 
 - [ ] **Day 31:** ...
+
+- [ ] **Day 32:** ...
 
 Check out my daily progress in the respective directories!
 
