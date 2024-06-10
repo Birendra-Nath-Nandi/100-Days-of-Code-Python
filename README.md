@@ -93,9 +93,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 30:** Enhanced the GUI Password Generator by adding a search feature and securely storing data using JSON files. Now, it can generate strong passwords and retrieve them whenever needed.
 
-- [ ] **Day 31:** ...
+- [x] **Day 31:** Built a Flash Card App from scratch using Python and Tkinter. This app aids in language learning by showing a word in French and flipping the card to reveal its English translation after a few seconds. It also tracks words that need more practice and saves progress in a CSV file.
 
 - [ ] **Day 32:** ...
+
+- [ ] **Day 33:** ...
 
 Check out my daily progress in the respective directories!
 
