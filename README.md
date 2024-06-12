@@ -97,9 +97,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 32:** Created a Birthday Wisher Program in Python. This program checks a CSV file for today's birthdays and sends automated birthday wishes via email using SMTP. It's a personalized way to celebrate special days.
 
-- [ ] **Day 33:** ...
+- [x] **Day 33:** Created an ISS Overhead Notifier Project in Python. This program tracks the International Space Station's (ISS) position and sends an email notification when it's overhead at night.
 
 - [ ] **Day 34:** ...
+
+- [ ] **Day 33:** ...
 
 Check out my daily progress in the respective directories!
 
