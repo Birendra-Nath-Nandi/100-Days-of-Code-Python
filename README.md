@@ -95,9 +95,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 31:** Built a Flash Card App from scratch using Python and Tkinter. This app aids in language learning by showing a word in French and flipping the card to reveal its English translation after a few seconds. It also tracks words that need more practice and saves progress in a CSV file.
 
-- [ ] **Day 32:** ...
+- [x] **Day 32:** Created a Birthday Wisher Program in Python. This program checks a CSV file for today's birthdays and sends automated birthday wishes via email using SMTP. It's a personalized way to celebrate special days.
 
 - [ ] **Day 33:** ...
+
+- [ ] **Day 34:** ...
 
 Check out my daily progress in the respective directories!
 
