@@ -99,9 +99,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 33:** Created an ISS Overhead Notifier Project in Python. This program tracks the International Space Station's (ISS) position and sends an email notification when it's overhead at night.
 
-- [ ] **Day 34:** ...
+- [x] **Day 34:** Built a GUI Quiz App in Python from scratch. This project involved integrating question data, creating a quiz engine, and designing a user-friendly interface using Tkinter.
 
-- [ ] **Day 33:** ...
+- [ ] **Day 35:** ...
+
+- [ ] **Day 36:** ...
 
 Check out my daily progress in the respective directories!
 
