@@ -101,9 +101,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 34:** Built a GUI Quiz App in Python from scratch. This project involved integrating question data, creating a quiz engine, and designing a user-friendly interface using Tkinter.
 
-- [ ] **Day 35:** ...
+- [x] **Day 35:** Built a Rain Alert system using OpenWeatherMap and Twilio APIs from scratch. This project involved fetching weather data and sending SMS alerts for rain predictions.
 
 - [ ] **Day 36:** ...
+
+- [ ] **Day 37:** ...
 
 Check out my daily progress in the respective directories!
 
