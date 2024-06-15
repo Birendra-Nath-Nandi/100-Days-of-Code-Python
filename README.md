@@ -103,9 +103,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 35:** Built a Rain Alert system using OpenWeatherMap and Twilio APIs from scratch. This project involved fetching weather data and sending SMS alerts for rain predictions.
 
-- [ ] **Day 36:** ...
+- [x] **Day 36:** Built a Stock News Program from scratch. This project fetches stock price data and relevant news articles, then sends alerts via Twilio if there are significant changes.
 
 - [ ] **Day 37:** ...
+
+- [ ] **Day 38:** ...
 
 Check out my daily progress in the respective directories!
 
