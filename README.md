@@ -105,9 +105,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 36:** Built a Stock News Program from scratch. This project fetches stock price data and relevant news articles, then sends alerts via Twilio if there are significant changes.
 
-- [ ] **Day 37:** ...
+- [x] **Day 37:** Successfully created a Habit Tracker Program from scratch. This project utilizes the Pixela API to track daily habits like cycling distances, integrating data posting and updating functionalities with the Python `requests` module.
 
 - [ ] **Day 38:** ...
+
+- [ ] **Day 39:** ...
 
 Check out my daily progress in the respective directories!
 
