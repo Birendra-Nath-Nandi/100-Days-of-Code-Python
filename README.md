@@ -107,9 +107,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 37:** Successfully created a Habit Tracker Program from scratch. This project utilizes the Pixela API to track daily habits like cycling distances, integrating data posting and updating functionalities with the Python `requests` module.
 
-- [ ] **Day 38:** ...
+- [x] **Day 38:** Created an Exercise Tracker Program from scratch. This project integrates the Nutritionix API to log exercises and calculate calories, then stores the data in a Google Sheet using the Sheety API.
 
 - [ ] **Day 39:** ...
+
+- [ ] **Day 40:** ...
 
 Check out my daily progress in the respective directories!
 
