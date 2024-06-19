@@ -109,9 +109,13 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 38:** Created an Exercise Tracker Program from scratch. This project integrates the Nutritionix API to log exercises and calculate calories, then stores the data in a Google Sheet using the Sheety API.
 
-- [ ] **Day 39:** ...
+- [x] **Day 39:** Created a Cheap Flight Finder Program from scratch. This project leverages various APIs to search for the cheapest flights from a specified origin to multiple destinations and sends notifications for the best deals via WhatsApp.
 
-- [ ] **Day 40:** ...
+- [x] **Day 40:** Created a Flight Search Program from scratch. This project searches for the best flight deals, including both direct and indirect flights, and sends notifications via WhatsApp and email. It’s an incredible tool for finding the cheapest flights and planning trips effectively.
+
+- [ ] **Day 41:** ...
+
+- [ ] **Day 42:** ...
 
 Check out my daily progress in the respective directories!
 
