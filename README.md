@@ -113,9 +113,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 40:** Created a Flight Search Program from scratch. This project searches for the best flight deals, including both direct and indirect flights, and sends notifications via WhatsApp and email. It’s an incredible tool for finding the cheapest flights and planning trips effectively.
 
-- [ ] **Day 41:** ...
+- [x] **Day 41:** Began my journey into web development by learning about web technologies. Created a simple Movie Ranking Project showcasing my top 3 favorite movies. This is a step towards mastering front-end skills and creating engaging web experiences.
 
 - [ ] **Day 42:** ...
+
+- [ ] **Day 43:** ...
 
 Check out my daily progress in the respective directories!
 
