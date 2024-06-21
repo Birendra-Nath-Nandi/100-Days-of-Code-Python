@@ -115,9 +115,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 41:** Began my journey into web development by learning about web technologies. Created a simple Movie Ranking Project showcasing my top 3 favorite movies. This is a step towards mastering front-end skills and creating engaging web experiences.
 
-- [ ] **Day 42:** ...
+- [x] **Day 42:** Created a fun and interactive Birthday Invite Program as part of my web development journey. This project allowed me to practice HTML and learn more about creating engaging content on the web.
 
 - [ ] **Day 43:** ...
+
+- [ ] **Day 44:** ...
 
 Check out my daily progress in the respective directories!
 
