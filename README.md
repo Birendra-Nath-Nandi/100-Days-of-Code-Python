@@ -117,9 +117,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 42:** Created a fun and interactive Birthday Invite Program as part of my web development journey. This project allowed me to practice HTML and learn more about creating engaging content on the web.
 
-- [ ] **Day 43:** ...
+- [x] **Day 43:** Created a Colour Vocab Website as part of my web development journey. This project helped me practice HTML and CSS, and allowed me to create a fun and interactive way to learn Spanish vocabulary for colors.
 
 - [ ] **Day 44:** ...
+
+- [ ] **Day 45:** ...
 
 Check out my daily progress in the respective directories!
 
