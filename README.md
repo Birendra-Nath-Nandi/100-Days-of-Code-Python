@@ -119,9 +119,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 43:** Created a Colour Vocab Website as part of my web development journey. This project helped me practice HTML and CSS, and allowed me to create a fun and interactive way to learn Spanish vocabulary for colors.
 
-- [ ] **Day 44:** ...
+- [x] **Day 44:** Had a blast creating a Meme Website as part of my web development journey. This project allowed me to practice HTML, CSS, and incorporate Google Fonts to create a fun and visually appealing meme poster.
 
 - [ ] **Day 45:** ...
+
+- [ ] **Day 46:** ...
 
 Check out my daily progress in the respective directories!
 
