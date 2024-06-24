@@ -121,9 +121,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 44:** Had a blast creating a Meme Website as part of my web development journey. This project allowed me to practice HTML, CSS, and incorporate Google Fonts to create a fun and visually appealing meme poster.
 
-- [ ] **Day 45:** ...
+- [x] **Day 45:** Successfully scraped a live website to compile a list of 100 Movies to Watch. Using Python, I extracted movie titles from a web page and saved them into a text file. This project helped me practice web scraping with BeautifulSoup and reinforced my understanding of HTML parsing.
 
 - [ ] **Day 46:** ...
+
+- [ ] **Day 47:** ...
 
 Check out my daily progress in the respective directories!
 
