@@ -123,9 +123,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 45:** Successfully scraped a live website to compile a list of 100 Movies to Watch. Using Python, I extracted movie titles from a web page and saved them into a text file. This project helped me practice web scraping with BeautifulSoup and reinforced my understanding of HTML parsing.
 
-- [ ] **Day 46:** ...
+- [x] **Day 46:** Built a Musical Time Machine using Python. This project involved web scraping the Billboard 100 chart for a specific date and creating a Spotify playlist with the top songs from that era. It was a fantastic way to combine web scraping, API usage, and data manipulation.
 
 - [ ] **Day 47:** ...
+
+- [ ] **Day 48:** ...
 
 Check out my daily progress in the respective directories!
 
