@@ -125,9 +125,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 46:** Built a Musical Time Machine using Python. This project involved web scraping the Billboard 100 chart for a specific date and creating a Spotify playlist with the top songs from that era. It was a fantastic way to combine web scraping, API usage, and data manipulation.
 
-- [ ] **Day 47:** ...
+- [x] **Day 47:** Created an Email Alert program that scrapes a product website and sends an email notification when the price drops below a preset value. This project helped me dive deep into web scraping, data extraction, and email automation.
 
 - [ ] **Day 48:** ...
+
+- [ ] **Day 49:** ...
 
 Check out my daily progress in the respective directories!
 
