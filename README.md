@@ -127,9 +127,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 47:** Created an Email Alert program that scrapes a product website and sends an email notification when the price drops below a preset value. This project helped me dive deep into web scraping, data extraction, and email automation.
 
-- [ ] **Day 48:** ...
+- [x] **Day 48:** Created an Automated Game Playing Bot using Python and Selenium. This bot can play the Cookie Clicker game by automatically clicking the cookie and purchasing upgrades, aiming to maximize the cookies per second.
 
 - [ ] **Day 49:** ...
+
+- [ ] **Day 50:** ...
 
 Check out my daily progress in the respective directories!
 
