@@ -129,9 +129,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 48:** Created an Automated Game Playing Bot using Python and Selenium. This bot can play the Cookie Clicker game by automatically clicking the cookie and purchasing upgrades, aiming to maximize the cookies per second.
 
-- [ ] **Day 49:** ...
+- [x] **Day 49:** Tackled the challenge of automating job applications using Python and Selenium. My program navigates to LinkedIn job listings, fills out application forms, and submits them automatically. This is a game-changer for streamlining the job search process!
 
 - [ ] **Day 50:** ...
+
+- [ ] **Day 51:** ...
 
 Check out my daily progress in the respective directories!
 
