@@ -131,9 +131,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 49:** Tackled the challenge of automating job applications using Python and Selenium. My program navigates to LinkedIn job listings, fills out application forms, and submits them automatically. This is a game-changer for streamlining the job search process!
 
-- [ ] **Day 50:** ...
+- [x] **Day 50:** Focused on automation by creating a program that automates the "liking" process on Tinder using Python and Selenium. While I have zero interest in Tinder itself, this project was an incredible exercise in web automation and handling various web elements and exceptions.
 
 - [ ] **Day 51:** ...
+
+- [ ] **Day 52:** ...
 
 Check out my daily progress in the respective directories!
 
