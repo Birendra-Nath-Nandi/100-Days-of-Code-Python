@@ -133,9 +133,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 50:** Focused on automation by creating a program that automates the "liking" process on Tinder using Python and Selenium. While I have zero interest in Tinder itself, this project was an incredible exercise in web automation and handling various web elements and exceptions.
 
-- [ ] **Day 51:** ...
+- [x] **Day 51:** Created a Twitter Bot to tweet at your Internet Provider. Using Python and Selenium, I built a bot that measures internet speed and tweets at the provider if the speed doesn't match the promised rates. While this is a hypothetical project, it was a great exercise in web automation and real-world applications.
 
 - [ ] **Day 52:** ...
+
+- [ ] **Day 53:** ...
 
 Check out my daily progress in the respective directories!
 
