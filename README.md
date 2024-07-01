@@ -135,9 +135,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 51:** Created a Twitter Bot to tweet at your Internet Provider. Using Python and Selenium, I built a bot that measures internet speed and tweets at the provider if the speed doesn't match the promised rates. While this is a hypothetical project, it was a great exercise in web automation and real-world applications.
 
-- [ ] **Day 52:** ...
+- [x] **Day 52:** Created an Instagram Follow Automation Program using Python and Selenium. This bot follows the followers of a targeted Instagram account, enhancing my skills in web automation and interaction with social media platforms.
 
 - [ ] **Day 53:** ...
+
+- [ ] **Day 54:** ...
 
 Check out my daily progress in the respective directories!
 
