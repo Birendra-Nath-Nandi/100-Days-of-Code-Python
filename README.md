@@ -137,9 +137,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 52:** Created an Instagram Follow Automation Program using Python and Selenium. This bot follows the followers of a targeted Instagram account, enhancing my skills in web automation and interaction with social media platforms.
 
-- [ ] **Day 53:** ...
+- [x] **Day 53:** Created a Zillow Data Entry program using Python, BeautifulSoup, Requests, and Selenium. This project involved scraping rental property data from a Zillow-clone website and automating the entry of this data into a Google Form.
 
 - [ ] **Day 54:** ...
+
+- [ ] **Day 55:** ...
 
 Check out my daily progress in the respective directories!
 
