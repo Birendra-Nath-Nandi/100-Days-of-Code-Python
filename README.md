@@ -139,9 +139,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 53:** Created a Zillow Data Entry program using Python, BeautifulSoup, Requests, and Selenium. This project involved scraping rental property data from a Zillow-clone website and automating the entry of this data into a Google Form.
 
-- [ ] **Day 54:** ...
+- [x] **Day 54:** Started diving into Backend Web Development with Flask and explored Python decorators. Created a Python Decorator program that measures the execution speed of functions, enhancing my understanding of how decorators can be utilized to add functionality in a clean and efficient way.
 
 - [ ] **Day 55:** ...
+
+- [ ] **Day 56:** ...
 
 Check out my daily progress in the respective directories!
 
