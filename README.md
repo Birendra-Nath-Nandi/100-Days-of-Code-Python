@@ -143,9 +143,9 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 55:** Delved into creating interactive web applications with Flask and built a "Higher or Lower URLs" game. This program generates a random number and challenges users to guess it by navigating through different URLs with feedback on their guesses. It's a fun way to apply Flask's routing and dynamic content generation.
 
-- [ ] **Day 56:** ...
+- [ ] **Day 56:** Skipped for now...
 
-- [ ] **Day 57:** ...
+- [x] **Day 57:** Created a Blog Website using Flask. This project pulls blog posts from an API and dynamically renders them on the site. Each post has its own unique page, showcasing the power of Flask in creating interactive and dynamic web applications.
 
 Check out my daily progress in the respective directories!
 
