@@ -149,9 +149,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 56:** Built a Startup Website for TinDog using HTML, CSS, and Bootstrap. TinDog helps dog owners connect their pets with potential playmates nearby. The site features responsive design and showcases key features like easy usability and diverse membership plans.
 
-- [ ] **Day 59:** ...
+- [x] **Day 58:** Upgraded my Blog Website using Flask. Now featuring dynamic routing to display posts, an about page, and contact information. The site is powered by Flask and retrieves blog posts from an API endpoint, offering a seamless browsing experience.
 
 - [ ] **Day 60:** ...
+
+- [ ] **Day 61:** ...
 
 Check out my daily progress in the respective directories!
 
