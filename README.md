@@ -151,7 +151,7 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 59:** Upgraded my Blog Website using Flask. Now featuring dynamic routing to display posts, an about page, and contact information. The site is powered by Flask and retrieves blog posts from an API endpoint, offering a seamless browsing experience.
 
-- [ ] **Day 60:** ...
+- [x] **Day 60:** Implemented email functionality on my Blog Website using `smtplib` in Python. Now, users can contact me directly through the site, and I'll receive their messages instantly via email. This feature enhances user interaction and improves communication efficiency.
 
 - [ ] **Day 61:** ...
 
