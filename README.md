@@ -153,7 +153,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 60:** Implemented email functionality on my Blog Website using `smtplib` in Python. Now, users can contact me directly through the site, and I'll receive their messages instantly via email. This feature enhances user interaction and improves communication efficiency.
 
-- [ ] **Day 61:** ...
+- [x] **Day 61:** Created a login system for my Blog Website using Bootstrap-Flask and WTForms. This enhancement allows users to log in securely, leveraging the power of Flask and Bootstrap for a sleek and user-friendly interface.
+
+- [ ] **Day 62:** ...
+
+- [ ] **Day 63:** ...
 
 Check out my daily progress in the respective directories!
 
