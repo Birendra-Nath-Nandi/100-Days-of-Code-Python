@@ -155,9 +155,13 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 61:** Created a login system for my Blog Website using Bootstrap-Flask and WTForms. This enhancement allows users to log in securely, leveraging the power of Flask and Bootstrap for a sleek and user-friendly interface.
 
-- [ ] **Day 62:** ...
+- [x] **Day 62:** Created a Coffee and Wifi Website using Flask. This project allows users to add and view cafes along with their ratings for coffee, wifi strength, and power socket availability. It's a great way to find the perfect spot to work or relax.
 
 - [ ] **Day 63:** ...
+
+- [ ] **Day 64:** ...
+
+- [ ] **Day 65:** ...
 
 Check out my daily progress in the respective directories!
 
