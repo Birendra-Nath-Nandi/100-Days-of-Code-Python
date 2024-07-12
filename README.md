@@ -157,7 +157,7 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 62:** Created a Coffee and Wifi Website using Flask. This project allows users to add and view cafes along with their ratings for coffee, wifi strength, and power socket availability. It's a great way to find the perfect spot to work or relax.
 
-- [ ] **Day 63:** ...
+- [x] **Day 63:** Created a Library Website using Flask and SQLAlchemy. This project allows users to add, edit, and delete books along with their ratings. It's a perfect way to manage your personal library and keep track of all your favorite reads.
 
 - [ ] **Day 64:** ...
 
