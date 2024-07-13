@@ -159,9 +159,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 63:** Created a Library Website using Flask and SQLAlchemy. This project allows users to add, edit, and delete books along with their ratings. It's a perfect way to manage your personal library and keep track of all your favorite reads.
 
-- [ ] **Day 64:** ...
+- [x] **Day 64:** Built a Movie Ranking Website using Flask and SQLAlchemy. This project lets users add, edit, and delete movies, rate them, and leave reviews. It's a fun way to share my top 10 movies based on personal opinion.
 
 - [ ] **Day 65:** ...
+
+- [ ] **Day 66:** ...
 
 Check out my daily progress in the respective directories!
 
