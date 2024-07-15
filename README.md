@@ -161,9 +161,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 64:** Built a Movie Ranking Website using Flask and SQLAlchemy. This project lets users add, edit, and delete movies, rate them, and leave reviews. It's a fun way to share my top 10 movies based on personal opinion.
 
-- [ ] **Day 65:** ...
+- [x] **Day 65 & 66:** Developed a Cafe API using Flask and SQLAlchemy. This API allows users to access information about cafes, add new cafes, update coffee prices, and delete closed cafes securely. Excited about building more robust APIs in the days ahead!
 
-- [ ] **Day 66:** ...
+- [ ] **Day 67:** ...
+
+- [ ] **Day 68:** ...
 
 Check out my daily progress in the respective directories!
 
