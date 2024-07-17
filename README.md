@@ -165,7 +165,7 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 67:** Added an Edit Feature to my Blog Website built with Flask and SQLAlchemy. Now, users can easily update their blog posts with new content and make necessary changes seamlessly. This improvement enhances the functionality and user experience of the blog platform.
 
-- [ ] **Day 68:** ...
+- [x] **Day 68:** Developed a Login and Registration Page for my web application using Flask, SQLAlchemy, and Flask-Login. Now, users can securely register and log in to access exclusive content. This feature enhances the security and user experience of the application.
 
 - [ ] **Day 69:** ...
 
