@@ -163,9 +163,13 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 65 & 66:** Developed a Cafe API using Flask and SQLAlchemy. This API allows users to access information about cafes, add new cafes, update coffee prices, and delete closed cafes securely. Excited about building more robust APIs in the days ahead!
 
-- [ ] **Day 67:** ...
+- [x] **Day 67:** Added an Edit Feature to my Blog Website built with Flask and SQLAlchemy. Now, users can easily update their blog posts with new content and make necessary changes seamlessly. This improvement enhances the functionality and user experience of the blog platform.
 
 - [ ] **Day 68:** ...
+
+- [ ] **Day 69:** ...
+
+- [ ] **Day 70:** ...
 
 Check out my daily progress in the respective directories!
 
