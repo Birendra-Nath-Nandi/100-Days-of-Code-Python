@@ -167,9 +167,11 @@ By participating in the 100 Days of Python Challenge, I aim to solidify my Pytho
 
 - [x] **Day 68:** Developed a Login and Registration Page for my web application using Flask, SQLAlchemy, and Flask-Login. Now, users can securely register and log in to access exclusive content. This feature enhances the security and user experience of the application.
 
-- [ ] **Day 69:** ...
+- [x] **Day 69:** Integrated user functionality into my blog website using Flask, SQLAlchemy, and Flask-Login. Now users can register, log in, and have their own posts and comments associated with their profiles. This enhancement adds a personalized touch and improves user engagement on the site.
 
 - [ ] **Day 70:** ...
+
+- [ ] **Day 71:** ...
 
 Check out my daily progress in the respective directories!
 
